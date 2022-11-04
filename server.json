@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "description":  "Desenvolvimento de site",
+      "description": "Desenvolvimento de site",
       "type": "income",
       "category": "Venda",
       "price": 14000,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "description":  "Hamburger",
+      "description": "Hamburger",
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
@@ -18,11 +18,27 @@
     },
     {
       "id": 3,
-      "description":  "Rocketseat",
+      "description": "Rocketseat",
       "type": "outcome",
       "category": "Educação",
       "price": 2000,
       "createdAt": "2022-10-31T16:30:58.354Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-11-04T00:30:16.535Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 20,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2022-11-04T00:58:00.063Z",
+      "id": 5
     }
   ]
 }
